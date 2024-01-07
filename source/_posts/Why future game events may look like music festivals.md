@@ -1,6 +1,6 @@
 ---
 title: Why future game events may look like music festivals
-date: 2023-01-10 20:00:00
+date: 2023-12-30 20:00:00
 categories:
   - Game Info
 tags:
