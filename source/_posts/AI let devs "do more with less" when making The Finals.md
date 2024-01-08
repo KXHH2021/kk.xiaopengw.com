@@ -1,6 +1,6 @@
 ---
 title: AI let devs "do more with less" when making The Finals
-date: 202312-13 20:00:00
+date: 2023-12-13 20:00:00
 categories:
   - Game Info
 tags:
