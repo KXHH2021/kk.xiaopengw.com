@@ -36,6 +36,7 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
   - google2b66a67a48732951.html
+  - f481cb118e160e0.html
   
 # Writing
 new_post_name: :title.md # File name of new posts
